@@ -3,7 +3,7 @@
 This repository contains the implementation and analysis of two classic machine learning algorithms used to classify handwritten digits from the **MNIST dataset**: **K-Nearest Neighbors (k-NN)** and the **Nearest Centroid Classifier**.
 
 ## 📄 Full Project Report
-For a deep dive into the methodology, mathematical background, and a detailed analysis of the misclassifications, please read the **[Full Project Report (PDF)](mnist_classifier_report.pdf)**.
+For a deep dive into the methodology, mathematical background, and a detailed analysis of the misclassifications, please read the **[Full Project Report (PDF)](mnist_classifiers_report.pdf)**.
 
 ---
 
