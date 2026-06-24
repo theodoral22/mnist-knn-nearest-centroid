@@ -64,8 +64,8 @@ The Nearest Centroid classifier computes the target 'center' of each class durin
 ---
 
 ## 📁 Repository Structure
-* `Project1(AP).ipynb`: The complete Google Colab / Jupyter Notebook with the source code.
-* `pattern_recognition_report.pdf`: The detailed academic report of the project.
+* `mnist_classifiers.ipynb`: The complete Google Colab / Jupyter Notebook with the source code.
+* `mnist_classifiers_report.pdf`: The detailed academic report of the project.
 * `images/`: Directory containing generated confusion matrices and classification examples.
 
 ## 🛠️ Requirements & Installation
