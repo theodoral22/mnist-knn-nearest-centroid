@@ -49,7 +49,7 @@ The Nearest Centroid classifier computes the target 'center' of each class durin
 ## 🖼️ Visual Results
 
 ### The Underfitting Phenomenon
-*Confusion matrices for Euclidean k-NN showing the degradation of accuracy as $k$ increases from 3 to 60,000.*
+*Confusion matrices for Euclidean k-NN showing the degradation of accuracy as k increases from 3 to 60,000.*
 <p align="center">
   <img src="images/matrix_euclidean.png" width="85%" />
 </p>
